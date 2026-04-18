@@ -1,16 +1,57 @@
-## Hi there 👋
+## Hey, I'm Harshith 👋
 
-<!--
-**gitwithharshith02/gitwithharshith02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at NMIT, Bengaluru.  
+Right now I'm focused on getting my fundamentals strong — especially in programming and problem solving.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm doing
+
+- Learning Data Structures & Algorithms 
+- Practicing coding regularly 
+
+---
+
+### Tech I’ve worked with
+
+**Languages**  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c" />
+</p>
+
+**Databases**  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+**Tools**  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+---
+
+### Areas I'm exploring
+
+- Object-Oriented Programming (Java)  
+- Backend concepts  
+- Understanding of AI/ML concepts  
+
+---
+
+### A bit about how I approach things
+
+I prefer building a strong base first rather than jumping into too many frameworks.  
+Still learning, still improving — keeping it consistent.
+
+---
+
+### Connect
+
+- LinkedIn: [linkedin.com/in/harshithdraj](https://www.linkedin.com/in/harshithdraj/)
+
+---
+  
+### Coding Profile(s)
+
+- LeetCode: [leetcode.com/harshithdotpy](https://leetcode.com/harshithdotpy)
